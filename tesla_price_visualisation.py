@@ -2,7 +2,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import mplfinance as mpf
 
-
 file = 'tesla.csv'
 data = pd.read_csv(file)
 #print(data)
