@@ -1,5 +1,6 @@
 import csv
 
+
 with open("tesla.csv") as f:
     reader = csv.DictReader(f)
     #print(reader)
