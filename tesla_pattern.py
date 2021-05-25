@@ -26,6 +26,7 @@ with open("tesla.csv") as f:
 
 
 for i in range(1, len(candles)):
+    
     #print(candles[i])
 
     if is_bullish_engulfing(candles,i):
