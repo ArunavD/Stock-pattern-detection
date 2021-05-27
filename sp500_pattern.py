@@ -53,10 +53,10 @@ for company in sp500_companies:
         
 
         if is_bullish_engulfing(candles,i):
-           print("{} - {} It is bulish engulfing".format(ticker, candles[i]['Date']))
+           print("{} - In {}, it is bulish engulfing".format(ticker, candles[i]['Date']))
            break
         
 
     
         if is_bearish_engulfing(candles,i):
-            print("{} - {} It is bearish engulfing".format(ticker, candles[i]['Date']))
+            print("{} - In {}, it is bearish engulfing".format(ticker, candles[i]['Date']))
