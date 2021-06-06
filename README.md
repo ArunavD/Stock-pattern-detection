@@ -14,8 +14,8 @@ A bullish engulfing pattern is a white or green candlestick that closes higher t
 ![](https://best-mt4-indicators.com/wp-content/uploads/2020/06/engulfing-candle-indicator.png)
 A bearish engulfing pattern is a technical chart pattern that signals lower prices to come. The pattern consists of an up (white or green) candlestick followed by a large down (black or red) candlestick that eclipses or "engulfs" the smaller up candle.
 
-<!-- Tools -->
-## Tools
+<!-- Libraries -->
+## Libraries
 + [yfinance](https://pypi.org/project/yfinance/) - An easy-to-use Python library for accessing the informations of Stocks.
 + [pandas](https://pypi.org/project/pandas/) - the most powerful and flexible open source data analysis / manipulation tool.
 + [matplotlib](https://pypi.org/project/matplotlib/) - is a comprehensive library for creating static, animated, and interactive visualizations in Python.
